@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+#welcome-title {
+    font-size: 6rem;
+    font-family: 'Dancing Script', cursive;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+
+#welcome-slogan {
+    font-size: 1.25rem;
+}
+
+.welcome-button {
+    margin: 2rem;
+    padding: 1rem;
+}
+
+#login-title {
+    padding: 1rem;
+}
+
+
+.login-form { 
+    margin: auto;
+    margin-top: 2rem;
+    max-width: 20rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: black;
+}
+
+.registration-form { 
+    margin: auto;
+    margin-top: 2rem;
+    max-width: 20rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: black;
+}
+
+#registration-title {
+    padding: 1rem;
+}
+
+.profile-box {
+    margin: auto;
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: black;
+    max-width: 40rem;
+}
